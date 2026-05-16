@@ -1,3 +1,6 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
+const nextConfig = {
+  // Force Pages Router
+}
+
 module.exports = nextConfig
